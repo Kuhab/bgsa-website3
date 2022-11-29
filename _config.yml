@@ -6,7 +6,7 @@
 #REQUIRED
 org_name: Black Graduate Student Association 
 org_summary: > # Enter your summary on the next line. Be sure to indent by two spaces.
-  A mobile-friendly Github Pages template designed to help grassroots nonprofits get a website online quickly
+ Welcome to the Black Graduate Student Association At UWA 
 org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.
   Ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.
 
@@ -15,8 +15,8 @@ org_full_description: > # Enter your description on the next line. Be sure to in
 org_general_email_inbox: your-email@somedomain.com
 org_street_address: 1355 Market Street #Please include suite number on the line below
 org_address_suite: Suite 900
-org_city: San Francisco
-org_state: CA
+org_city: Seattle
+org_state: Wa
 org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
   94103
 org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
@@ -47,7 +47,7 @@ publish: false
 
 #COLOR SCHEME
 #Select one of the five color schemes (default, one, two, three, or four)
-color_scheme: default
+color_scheme: two
 
 # *** DO NOT CHANGE ANYTHING BELOW THIS LINE ***
 
